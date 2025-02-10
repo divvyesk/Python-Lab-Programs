@@ -1,0 +1,48 @@
+Python 3.12.8 (tags/v3.12.8:2dc476b, Dec  3 2024, 19:30:04) [MSC v.1942 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> 
+=================== RESTART: C:/Users/401-12/Desktop/E-15.py ===================
+#EXP 1 A):  write a python code to generate a personalized greeting
+Enter your name: Divvye
+Welcome to Python Programming Divvye!
+
+#EXP 1 B): write a python code to calculate area of any geometric figure circle, rectangle and triangle
+Enter R for rectangle, C for circle, and T for triangle: R
+Enter the length of the rectangle: 10
+Enter the breadth of the rectangle: 20
+Area of rectangle is:  200
+
+#EXP 1 C): Developing conversion inches to feet, inr to dollar, C to F
+Enter rupees in INR: 1
+Value in Dollars:  87
+Enter length in inches: 12
+Length in feet=  1.0
+Enter temperature in Celcius: 0
+Temperature in Farenheit =  32.0
+
+#EXP 1 C): Write a program code to calculate the gross salary of an employee
+Enter the basic salary: 1000
+Gross salary of the given employee:   2100.0
+
+#EXP 1 D): calculate simple interest
+Enter Principal Amount: 1000
+Enter the time: 2
+Enter the rate of interest: 5
+Simple interest:  100.0
+
+#EXP 1 E): Write a python code to perform arithmetic operations addtion, subtraction, mutliplication, division and modulus
+Enter a number: 1
+Enter a number: 2
+Addition of a and b is:  3
+Enter a number: 3
+Enter a number: 4
+Subtraction of c and d is:  -1
+Enter a number: 5
+Enter a number: 6
+Multiplication of e and f is:  30
+Enter a number: 7
+Enter a number: 8
+Division of g and h:  0.875
+Enter a number: 9
+Enter a number: 10
+Modulus of i and j:  9
