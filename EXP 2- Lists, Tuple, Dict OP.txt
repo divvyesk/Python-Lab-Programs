@@ -1,0 +1,31 @@
+Python 3.12.8 (tags/v3.12.8:2dc476b, Dec  3 2024, 19:30:04) [MSC v.1942 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+
+================= RESTART: C:/Users/401-12/Desktop/E-15-ii).py =================
+EXP 2 A):  To manage a task list using list and tuples and perform add, remove, update and sort task
+
+Add a task: a
+Add a task: c
+Add a task: d
+Add a task: e
+Add a task: f
+['a', 'c', 'd', 'e', 'f']
+['a', 'c', 'd', 'e']
+['a', 'd', 'e']
+['a', 'd', 'e']
+['a', 'd', 'e']
+Enter the tasks sepearted by commasa,c
+['a', 'c']
+Enter the tasks sepearted by commasd,e
+['d', 'e'] <class 'list'>
+<class 'tuple'>
+['d', 'e']
+['e', 'd']
+{'Divvye', 'Amaya', 'Jai', 'Mohit', 'Aaditya', 'Dhairya'}
+{'Aaditya'}
+{'Jai', 'Divvye'}
+{'Mohit', 'Amaya', 'Dhairya'}
+{'Divvye', 'Amaya', 'Mohit', 'Jai', 'Dhairya'}
+{1: {'name': 'Amol', 'grades': [], 'attendance ': 0}}
+{1: {'name': 'Amol', 'grades': [], 'attendance ': 0}, 2: {'name': 'Nishit', 'grades': [], 'attendance ': 0}}
+{1: {'name': 'Amol', 'grades': [], 'attendance ': 0}, 2: {'name': 'Nishit', 'grades': [], 'attendance ': 0}, 3: {'name': 'Sagar', 'grades': [], 'attendance ': 0}}
